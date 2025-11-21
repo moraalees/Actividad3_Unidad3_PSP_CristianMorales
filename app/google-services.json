@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525058847710",
+    "project_id": "ej5tema3pmdm",
+    "storage_bucket": "ej5tema3pmdm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525058847710:android:26bf91aca266b6a54ca34f",
+        "android_client_info": {
+          "package_name": "com.example.ej5_tema3_pmdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7xA4-niYw6mh80RzO4tOMM3o3vRx22Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
